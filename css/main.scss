@@ -4,6 +4,7 @@ body {
   height: 100vh;
   margin: 0;
   cont-family: 'Poppins', arial;
+  background: #F7F7F7;
 }
 
 ul {
@@ -18,7 +19,6 @@ a {
 
 img {
   width: 100%;
-  border-radius: 1em;
 }
 
 .nav-container {
@@ -79,9 +79,14 @@ section {
   text-align: center;
 }
 
+.flashcard {
+  border-radius: 1em;
+}
+
 .featured {
   position: relative;
 }
+
 .featured::before {
   content: "";
   position: absolute;
