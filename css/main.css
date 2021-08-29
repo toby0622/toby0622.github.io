@@ -17,6 +17,7 @@ a {
 
 img {
   width: 100%;
+  border-radius: 1em;
 }
 
 .nav-container {
@@ -120,7 +121,7 @@ section {
 .skills-container ul li {
   background: white;
   padding: 2em;
-  border: 1em;
+  border-radius: 1em;
   margin-bottom: 1em;
 }
 .skills-container ul li .icon-container {
