@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="641" height="638" viewBox="0 0 641 638">
+  <g id="Group_1" data-name="Group 1" transform="translate(-967 -222)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="159" height="159" rx="21" transform="translate(1285 222)" fill="#1e3d59"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="159" height="159" rx="21" transform="translate(1285 540)" fill="#1e3d59"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="159" height="159" rx="21" transform="translate(1449 382)" fill="#1e3d59" opacity="0.3"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="159" height="159" rx="21" transform="translate(1128 382)" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="159" height="159" rx="21" transform="translate(1129 701)" fill="#fff"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="159" height="159" rx="21" transform="translate(967 540)" fill="#fff" opacity="0.3"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="80" cy="80" r="80" transform="translate(1288 380)" fill="#c66b3d"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="80" cy="80" r="80" transform="translate(1127 540)" fill="#c4a35a"/>
+  </g>
+</svg>
