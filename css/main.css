@@ -3,7 +3,7 @@ body {
   height: 100vh;
   margin: 0;
   cont-family: "Poppins", arial;
-  background: #F7F7F7;
+  background: #DAD7CD;
 }
 
 ul {
@@ -151,7 +151,7 @@ section {
 }
 
 .portfolio {
-  background: #F7F7F7;
+  background: #DAD7CD;
 }
 
 .portfolio-container a img {
